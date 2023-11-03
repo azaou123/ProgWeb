@@ -1,0 +1,17 @@
+.img-fluid {
+    display: block;
+    margin-right:auto;
+    margin-left: auto;
+  }
+ #scroll{
+  font-size: large;
+ }
+ .carousel-item-4 {
+  background: linear-gradient(100deg, #2221217d, #252323b7), url('../img/partners.jpg');
+  height: 500px !important;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  
+}

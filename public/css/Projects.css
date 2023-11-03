@@ -1,0 +1,24 @@
+.carousel-item-4 {
+    background: linear-gradient(100deg, #0000007d, #000000b7), url('../img/project.png');
+    height: 600px !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+
+
+/* Workshops page} */
+
+.carousel-item-5 {
+    background: url('../img/Workshops.jpg');
+    height: 600px !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
